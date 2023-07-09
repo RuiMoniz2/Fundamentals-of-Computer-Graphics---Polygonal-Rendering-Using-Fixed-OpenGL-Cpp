@@ -1,1 +1,2 @@
 # Fundamentals-of-Computer-Graphics---Polygonal-Rendering-Using-Fixed-OpenGL-Cpp
+This repository contains the code and documentation for a project focused on the fundamentals of computer graphics, specifically polygonal rendering using the fixed OpenGL pipeline. The main goal is to provide an introduction to basic concepts in computer graphics, including modeling, the rendering pipeline, and the use of standards such as OpenGL API.
